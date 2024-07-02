@@ -1,2 +1,2 @@
-# medoooo
+# Resoooo
 resume builder 
