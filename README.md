@@ -1,2 +1,2 @@
 # medoooo
-medical reminder app
+resume builder 
